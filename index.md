@@ -1,5 +1,8 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to my trial website " 
 ---
 
-I'm glad you are here. I plan to talk about ...
+--
+I am learning to build my website using Git hub ...
+--
+
